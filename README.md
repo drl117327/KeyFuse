@@ -1,2 +1,2 @@
 # KeyFuse
-KEYFUSE: INFORMATION-PRESERVING VISUAL TOKEN PRUNING FOR VISION-LANGUAGE-ACTION MODELS
+KeyFuse: Information-Preserving Visual Token Pruning For Vision-Language-Action Models
